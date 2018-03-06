@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Subhendu Malakar
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: I am a student of AEIE B-tech and I love Deep Learning 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/27752202_922798791223243_8021571268095051473_n.jpg?oh=9935a3076c0b445020d3ebd03b0b7bd3&oe=5B0E8221
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: subhendumalakar19@gmail.com
+  facebook: https://www.facebook.com/subhendu.malakar.1
   flickr:
-  github: barryclark/jekyll-now
+  github: github.com/subhenduMalakar
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/subhendumalakar/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
