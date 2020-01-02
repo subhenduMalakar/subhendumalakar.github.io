@@ -1,2 +1,18 @@
-<ifram ="https://onedrive.live.com/embed?cid=85908B6FAD85532A&resid=85908B6FAD85532A%211353&authkey=AAjMbvv-J4q3S64" width="165" height="128" frameborder="0" scrolling="no"></iframe>
-<iframe src="https://onedrive.live.com/embed?cid=85908B6FAD85532A&resid=85908B6FAD85532A%211487&authkey=AOsCFtLBDO84Ip4" width="165" height="128" frameborder="0" scrolling="no"></iframe>
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
