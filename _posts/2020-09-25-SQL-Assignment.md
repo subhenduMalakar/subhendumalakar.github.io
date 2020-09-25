@@ -1,3 +1,9 @@
+---
+layout: post
+title: SQL Assignment
+categories: [Miscellaneous, Jekyll]
+---
+
 # SQL Assignment
 
 
