@@ -1,3 +1,9 @@
+---
+layout: post
+title: Introducing to numpy
+categories: [Miscellaneous, Jekyll]
+---
+
 # Covering all improtant operation of numpy
 
 ### list to numpy array
